@@ -1,3 +1,4 @@
 # object_detect
-Using OpenCV; in the fields of computer vision, image processing, robotics, and machine learning for both research and industrial applications. Applied to an image, then moved to a brief walk downtown Cape Town to show detections and then to a webcam.
+object detection is about identifying and localizing objects in an image or video frame, while object tracking is about maintaining the track of a specific object as it moves across frames in a video sequence. Applied to an image, then moved to a brief walk downtown Cape Town to show detections and then to a webcam.
+
 ![Object_detect_test - Made with Clipchamp](https://github.com/chrisjcroall/object_detect/assets/126267745/317fc0e0-7bc9-44aa-aa4e-9072f1073c73)
